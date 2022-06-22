@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/MOODBOARD/static/css/main.073c9b0a.css",
+    "main.js": "/MOODBOARD/static/js/main.7c4979a5.js",
+    "static/js/787.9150598a.chunk.js": "/MOODBOARD/static/js/787.9150598a.chunk.js",
+    "static/media/logo.svg": "/MOODBOARD/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/MOODBOARD/index.html",
+    "main.073c9b0a.css.map": "/MOODBOARD/static/css/main.073c9b0a.css.map",
+    "main.7c4979a5.js.map": "/MOODBOARD/static/js/main.7c4979a5.js.map",
+    "787.9150598a.chunk.js.map": "/MOODBOARD/static/js/787.9150598a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.7c4979a5.js"
+  ]
+}
